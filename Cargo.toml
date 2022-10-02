@@ -1,0 +1,15 @@
+[package]
+name = "Lasthearth"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nathan Douglas <github@darkdell.net>"]
+
+[lib]
+name = "lasthearth"
+path = "src/lib.rs"
+
+[[bin]]
+name = "lasthearth"
+path = "src/main.rs"
+
+[dependencies]
