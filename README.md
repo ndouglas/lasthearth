@@ -2,7 +2,7 @@
 
 Lasthearth is an experimental programming language, VM, and domain-specific library.
 
-As part of my work on [https://github.com/ndouglas/hornvale.git](Hornvale), I want to write a scripting language that is:
+As part of my work on [Hornvale](https://github.com/ndouglas/hornvale.git), I want to write a scripting language that is:
 
 - powerful
 - performant
