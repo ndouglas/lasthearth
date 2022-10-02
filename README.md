@@ -10,7 +10,7 @@ As part of my work on [Hornvale](https://github.com/ndouglas/hornvale/), I want 
 
 I can afford to compromise the first and second points for the third, given the nature of Hornvale.
 
-This work is based on Lox, from Robert Nystrom's amazing [Crafting Interpreters](https://craftinginterpreters.com), and specifically his bytecode-based CLox, but I'm customizing it heavily based on my personal preferences and intended use case.
+This work is based on Lox, from Robert Nystrom's amazing [Crafting Interpreters](https://craftinginterpreters.com), and specifically his bytecode-based CLox, but I'm customizing it heavily based on my personal preferences and intended use case, and adding bindings for functionality in other projects.
 
 ## Hornvale Project
 - [Hornvale](https://github.com/ndouglas/hornvale/): Frontend and connective logic
